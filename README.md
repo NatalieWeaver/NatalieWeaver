@@ -1,10 +1,9 @@
 Hi, I'm Natalie 👋
 
-I grew up near Seattle, studied math and Latin at the University of Oregon, and now work as an actuarial analyst for a consulting firm in the Bay Area. This account hosts a collection of personal projects representing some of my interests, which include:
+I grew up near Seattle, studied math and Latin at the University of Oregon, and now work for an actuarial consulting firm in the Bay Area. This account hosts a collection of personal projects representing some of my interests, which include:
 
 - math, especially math education 🧮
-- statistical learning 🔮
-- extreme LaTex (which is actually a turing-complete language!) 💯
+- LaTex (which is actually a turing-complete language!) 💯
 
 Some of my non-technical interests include:
 
