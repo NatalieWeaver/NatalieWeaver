@@ -1,16 +1,14 @@
 Hi, I'm Natalie 👋
 
-I currently work as an actuarial analyst for a consulting firm in San Francisco, and in a past life I was a Classics major with a Latin concentration at the University of Oregon (I also did a math major, but in the end Latin was the only subject I studied every term). 
+I am actuarial analyst for a consulting firm in San Francisco, and previously studied mathematics and classics (Latin focus) at the University of Oregon.
 
-I like to use code to solve problems and in particular to create tools that can make the solutions easier to understand. A good example of this is my [triangle counter](https://github.com/NatalieWeaver/counting-triangles), which demonstrates how to solve one of my favorite problems (which I initially got wrong!) from when I worked at the Eugene math circle in college.
+I like to use code to solve problems and create tools that can make the solutions easier to understand. For example, my [triangle counter](https://github.com/NatalieWeaver/counting-triangles) demonstrates how to solve one of my favorite problems (which I initially got wrong!) from the Eugene math circle in college.
 
-My programming language of choice is R, and I have experience using caret for modeling, RMarkdown for presentation (including xaringan for slides), and the tidyverse to help with just about everything. Recently, I've been getting into R package development as well. Things I want to learn in the future include tidymodels, quarto, and shiny apps.
-
-Besides R, I occasionally code in Python and am trying to get better at it. As part of a fun side project developing a website for work, I learned the basics of HTML and CSS and have started to dip my toes into Ruby and JavaScript. During my math major I also had a lot of fun writing Latex which, fun fact, is Turing-complete despite mostly being used as a markup language.
+I have experience working in R and Python, mostly for data analysis and data science as applied to actuarial ratemaking. I am a big believer in writing clean, logical code that is easy for others to use and understand. As part of this philosophy, for bigger projects I like to write code as R or Python packages. Technologies I want to learn more about include tidymodels, quarto, and shiny apps in R; and Scikit-Learn, TensorFlow, and XGBoost in Python.
 
 Here's how you can reach me:
 
-- GitHub: [@NatalieWeaver](https://github.com/NatalieWeaver)
+- Email: natalie.weaver@outlook.com
 - LinkedIn: [@natalie-renee-weaver](https://www.linkedin.com/in/natalie-renee-weaver/)
 
 <!---
