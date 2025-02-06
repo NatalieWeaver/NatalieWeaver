@@ -1,6 +1,6 @@
 Hi, I'm Natalie 👋
 
-I am actuarial analyst for a consulting firm in San Francisco, and previously studied mathematics and classics (Latin focus) at the University of Oregon.
+I am a data scientist for a consulting firm in San Francisco, and previously studied mathematics and classics (Latin focus) at the University of Oregon.
 
 I like to use code to solve problems and create tools that can make the solutions easier to understand. For example, my [triangle counter](https://github.com/NatalieWeaver/counting-triangles) demonstrates how to solve one of my favorite problems (which I initially got wrong!) from the Eugene math circle in college.
 
