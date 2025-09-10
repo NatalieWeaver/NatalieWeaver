@@ -1,6 +1,6 @@
 Hi, I'm Natalie 👋
 
-I am a data scientist at Milliman, an actuarial consulting firm with expertise in pricing homeowners and auto insurance; recently, we have also been studying the financial risks associated with climate events such as wildfire and flood. I previously studied mathematics and Latin at the University of Oregon, graduating summa cum laude in 2020.
+I am a data scientist at Milliman, an actuarial consulting firm with expertise in pricing homeowners and auto insurance; recently, we have also been studying the financial risks associated with climate events such as wildfire and flood. I previously studied mathematics and Latin at the University of Oregon, graduating summa cum laude in 2020. I am based in San Francisco.
 
 I like to use code to solve problems and create tools that can make the solutions easier to understand. For example, my [triangle counter](https://github.com/NatalieWeaver/counting-triangles) demonstrates how to solve one of my favorite problems (which I initially got wrong!) from the Eugene Math Circle in college. My friend posted one of my triangle animations on Reddit and accidentally went slightly viral and made a lot of people angry in the comments. You can check that out here: https://www.reddit.com/r/visualizedmath/comments/dsiebp/counting_triangles/
 
