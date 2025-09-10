@@ -1,10 +1,10 @@
 Hi, I'm Natalie 👋
 
-I am a data scientist for a consulting firm in San Francisco, and previously studied mathematics and classics (Latin focus) at the University of Oregon.
+I am a data scientist at Milliman, an actuarial consulting firm with expertise in pricing homeowners and auto insurance; recently, we have also been studying the financial risks associated with climate events such as wildfire and flood. I previously studied mathematics and Latin at the University of Oregon, graduating summa cum laude in 2020.
 
-I like to use code to solve problems and create tools that can make the solutions easier to understand. For example, my [triangle counter](https://github.com/NatalieWeaver/counting-triangles) demonstrates how to solve one of my favorite problems (which I initially got wrong!) from the Eugene math circle in college.
+I like to use code to solve problems and create tools that can make the solutions easier to understand. For example, my [triangle counter](https://github.com/NatalieWeaver/counting-triangles) demonstrates how to solve one of my favorite problems (which I initially got wrong!) from the Eugene Math Circle in college. My friend posted one of my triangle animations on Reddit and accidentally went slightly viral and made a lot of people angry in the comments. You can check that out here: https://www.reddit.com/r/visualizedmath/comments/dsiebp/counting_triangles/
 
-I have experience working in R and Python, mostly for data analysis and data science as applied to actuarial ratemaking. I am a big believer in writing clean, logical code that is easy for others to use and understand. As part of this philosophy, for bigger projects I like to write code as R or Python packages. Technologies I want to learn more about include tidymodels, quarto, and shiny apps in R; and Scikit-Learn, TensorFlow, and XGBoost in Python.
+For similar reasons, I am a big fan of interpretable ML and have recently (as of 2025) been studying how Explainable Boosting Machines can be applied to an insurance context for both prediction and inference problems. I would love to connect with anyone else who is excited about EBMs or other techniques!
 
 Here's how you can reach me:
 
